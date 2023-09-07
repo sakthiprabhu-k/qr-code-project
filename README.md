@@ -18,11 +18,11 @@ This is my FIRST PROJECT using HTML & CSS and this is a solution to the [QR code
 
 #### Desktop View
 
-![qr-code-project desktop view screenshot](Screenshots/qr-code-project-desktop-view-screenshot.png)
+![qr-code-project desktop view screenshot](screenshots/qr-code-project-desktop-view-screenshot.png)
 
 #### Mobile View
 
-![qr-code-project mobile view screenshot](Screenshots/qr-code-project-mobile-view-screenshot.png)
+![qr-code-project mobile view screenshot](screenshots/qr-code-project-mobile-view-screenshot.png)
 
 ## My process
 
