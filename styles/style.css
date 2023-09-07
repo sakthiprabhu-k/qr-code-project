@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200;300;400;500;600;700&display=swap');
+
+@media all and (max-width:1440px) {
+    * {
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        width: 100vw;
+        min-height: 100vh;
+        font-family: 'Outfit', sans-serif;
+        background-color: hsl(212, 45%, 89%);
+    }
+
+    .flex-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        height: 100vh;
+    }
+
+    .qr-code-card {
+        background-color: hsl(0, 0%, 100%);
+        width: 305px;
+        padding: 15px;
+        border-radius: 20px;
+        box-shadow: 1px 1px 200px -25px rgba(119, 126, 140, 0.30);
+    }
+
+    .qr-code-image {
+        display: block;
+        width: 100%;
+        border-radius: 10px;
+    }
+
+    .description {
+        padding: 8px 10px;
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 21px;
+        font-weight: 700;
+        margin: 0.67em 0 0.67em 0;
+        color: hsl(218, 44%, 22%);
+    }
+
+    p {
+        text-align: center;
+        font-size: 15px;
+        font-weight: 400;
+        margin: 1em 0 1em 0;
+        color: hsl(220, 15%, 55%);
+    }
+}
+
+@media all and (max-width:375px) {
+    * {
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        width: 100vw;
+        min-height: 100vh;
+        font-family: 'Outfit', sans-serif;
+        background-color: hsl(212, 45%, 89%);
+    }
+
+    .flex-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        height: 100vh;
+    }
+
+    .qr-code-card {
+        background-color: hsl(0, 0%, 100%);
+        width: 80%;
+        padding: 15px;
+        border-radius: 5.34vw;
+        box-shadow: 1px 1px 200px -25px rgba(119, 126, 140, 0.30);
+    }
+
+    .qr-code-image {
+        display: block;
+        width: 100%;
+        border-radius: 2.67vw;
+    }
+
+    .description {
+        padding: 8px 10px;
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 5.6vw;
+        font-weight: 700;
+        margin: 0.67em 0 0.67em 0;
+        color: hsl(218, 44%, 22%);
+    }
+
+    p {
+        text-align: center;
+        margin: 1em 0 1em 0;
+        font-size: 4vw;
+        font-weight: 400;
+        color: hsl(220, 15%, 55%);
+    }
+}
