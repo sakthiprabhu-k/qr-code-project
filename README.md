@@ -6,6 +6,7 @@ This is my FIRST PROJECT using HTML & CSS and this is a solution to the [QR code
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -23,6 +24,11 @@ This is my FIRST PROJECT using HTML & CSS and this is a solution to the [QR code
 #### Mobile View
 
 ![qr-code-project mobile view screenshot](screenshots/qr-code-project-mobile-view-screenshot.png)
+
+### Links
+
+1. [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-1aj2IRqxx9)
+2. [Live Site URL](https://sakthiprabhu-k.github.io/qr-code-project/)
 
 ## My process
 
